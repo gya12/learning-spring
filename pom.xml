@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.frankmoley.lil</groupId>
 	<artifactId>learning-spring</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0.0</version>
 	<name>learning-spring</name>
 	<description>Demo project for Spring Boot</description>
 
